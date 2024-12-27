@@ -1,0 +1,2 @@
+GET http://localhost:8000/api/HDPa1GIWm/analytics
+Content-Type: application/json
